@@ -3,5 +3,6 @@ This is the repository for the Minecraft: Gameboy Edition. This edition can run 
 NOTES:
 * This isn't an official Minecraft Edition, it's only a fan made Minecraft-Edition!
 * Multiplayer is currently not supported and will never be due to platform limitations!
-* This app can only run on very, very old Nintendo Gameboys.! Other devices are currently NOT supported with the Gameboy Edition of Minecraft!
-* This is only a 2D Minecraft: PE clone and 3D will never be because all these Nintendo Gameboys can't currently support 3D and they'll never be!
+* This app can only run on very, very old Nintendo Gameboys! Other devices are currently NOT supported with the Gameboy Edition of Minecraft!
+* This is only a 2D Minecraft: Pocket Edition clone and 3D will never be because all these Nintendo Gameboys can't currently support 3D and they'll never be!
+* The current version is Alpha 0.0.1 with only a few blocks (e.g. sand, grass, stone, bedrock, water, snow and lava). More blocks will be added in future updates!
